@@ -1,0 +1,5 @@
+/build
+/libs
+*.gradle
+*.iml
+proguard-rules.txt
